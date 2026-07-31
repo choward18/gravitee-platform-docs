@@ -473,6 +473,7 @@
     * [Consume your LLM proxy with the OpenAI Python SDK](ai-agent-management/llm-proxy/consume-your-llm-proxy-with-the-openai-python-sdk.md)
     * [Connect Claude Code through a Gravitee LLM Proxy](ai-agent-management/llm-proxy/connect-claude-code-through-gravitee-llm-proxy.md)
   * [Secure MCP Proxy with OAuth2](ai-agent-management/secure-mcp-proxy-with-oauth2.md)
+  * [Protect an MCP Proxy with rate limiting and PII filtering](ai-agent-management/protect-an-mcp-proxy-with-rate-limiting-and-pii-filtering.md)
   * [MCP Server Installation Widget for Portal Pages](mcp-server-installation-widget-for-portal-pages.md)
   * [AI Resources](ai-agent-management/AI-resources/README.md)
     * [AI - Model Text Classification - Overview and Model Selection](ai-agent-management/AI-resources/ai-model-text-classification-overview-and-model-selection.md)
